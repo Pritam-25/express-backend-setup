@@ -79,6 +79,4 @@ Add test and lint scripts as needed. If you have tests, run them with `pnpm test
 
 This project is provided as-is. Add your license file or notice here.
 
----
 
-If you'd like, I can also add a minimal `.env.example` or add `pnpm` scripts to `package.json`. Which would you prefer next?
